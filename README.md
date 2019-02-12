@@ -1,4 +1,4 @@
-# VTA_component_nuclei
+# VTA component nuclei
 
 Figure 1. VTA component nuclei
 
