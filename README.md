@@ -1,8 +1,8 @@
-# Repository contains code for VTA component nuclei figure (in gh-pages branch)
+#  VTA component nuclei figure
 
-Figure 1. VTA component nuclei
 
-corresponding publication: 
+Repository contains code for VTA component nuclei figure (in gh-pages branch) of corresponding publication: 
+
 Anne C. Trutti, Martijn J. Mulder, Bernhard Hommel & Birte U. Forstmann (2019). Functional neuroanatomical review of the ventral tegmental area, NeuroImage. https://doi.org/10.1016/j.neuroimage.2019.01.062.
 
 
