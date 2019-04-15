@@ -1,5 +1,7 @@
 #  VTA component nuclei figure
 
+Link to figure:
+https://actrutti.github.io/VTA_component_nuclei/
 
 Repository contains code for VTA component nuclei figure (in gh-pages branch) of corresponding publication: 
 
